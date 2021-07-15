@@ -160,5 +160,119 @@ data = [
         'company': 'Marvel',
         'metascore': 67,
         'release': 2021
+    },
+    {
+        'name': 'Catwoman',
+        'company': 'DC',
+        'metascore': 27,
+        'release': 2004
+    },
+    {
+        'name': 'Constantine',
+        'company': 'DC',
+        'metascore': 50,
+        'release': 2005
+    },
+    {
+        'name': 'Batman Begins',
+        'company': 'DC',
+        'metascore': 70,
+        'release': 2005
+    },
+    {
+        'name': 'Superman Returns',
+        'company': 'DC',
+        'metascore': 72,
+        'release': 2006
+    },
+    {
+        'name': 'The Dark Knight',
+        'company': 'DC',
+        'metascore': 84,
+        'release': 2008
+    },
+    {
+        'name': 'Watchmen',
+        'company': 'DC',
+        'metascore': 56,
+        'release': 2009
+    },
+    {
+        'name': 'Jonah Hex',
+        'company': 'DC',
+        'metascore': 33,
+        'release': 2010
+    },
+    {
+        'name': 'Green Lantern',
+        'company': 'DC',
+        'metascore': 39,
+        'release': 2011
+    },
+    {
+        'name': 'The Dark Knight Rises',
+        'company': 'DC',
+        'metascore': 78,
+        'release': 2012
+    },
+    {
+        'name': 'Man of Steel',
+        'company': 'DC',
+        'metascore': 55,
+        'release': 2013
+    },
+    {
+        'name': 'Batman v Superman: Dawn of Justice',
+        'company': 'DC',
+        'metascore': 44,
+        'release': 2016
+    },
+    {
+        'name': 'Suicide Squad',
+        'company': 'DC',
+        'metascore': 40,
+        'release': 2016
+    },
+    {
+        'name': 'Wonder Woman',
+        'company': 'DC',
+        'metascore': 76,
+        'release': 2017
+    },
+    {
+        'name': 'Justice League',
+        'company': 'DC',
+        'metascore': 45,
+        'release': 2017
+    },
+    {
+        'name': 'Aquaman',
+        'company': 'DC',
+        'metascore': 55,
+        'release': 2018
+    },
+    {
+        'name': 'Shazam!',
+        'company': 'DC',
+        'metascore': 71,
+        'release': 2019
+    },
+    {
+        'name': 'Joker',
+        'company': 'DC',
+        'metascore': 59,
+        'release': 2019
+    },
+    {
+        'name': 'Birds of Prey',
+        'company': 'DC',
+        'metascore': 60,
+        'release': 2020
+    },
+    {
+        'name': 'Wonder Woman 1984',
+        'company': 'DC',
+        'metascore': 60,
+        'release': 2020
     }
 ]

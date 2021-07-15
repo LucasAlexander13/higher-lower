@@ -264,6 +264,12 @@ data = [
         'release': 2019
     },
     {
+        'name': 'Watchmen',
+        'company': 'DC',
+        'metascore': 85,
+        'release': 2019
+    },
+    {
         'name': 'Birds of Prey',
         'company': 'DC',
         'metascore': 60,
@@ -274,5 +280,29 @@ data = [
         'company': 'DC',
         'metascore': 60,
         'release': 2020
+    },
+    {
+        'name': 'Zack Snyder\'s Justice League',
+        'company': 'DC',
+        'metascore': 54,
+        'release': 2021
+    },
+    {
+        'name': 'The Tick',
+        'company': 'Amazon',
+        'metascore': 72,
+        'release': 2017
+    },
+    {
+        'name': 'The Boyz',
+        'company': 'Amazon',
+        'metascore': 77,
+        'release': 2019
+    },
+    {
+        'name': 'Invincible',
+        'company': 'Amazon',
+        'metascore': 73,
+        'release': 2021
     }
 ]

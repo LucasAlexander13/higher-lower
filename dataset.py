@@ -136,5 +136,29 @@ data = [
         'company': 'Marvel',
         'metascore': 69,
         'release': 2019
+    },
+    {
+        'name': 'WandaVision',
+        'company': 'Marvel',
+        'metascore': 77,
+        'release': 2021
+    },
+    {
+        'name': 'The Falcon and the Winter Soldier',
+        'company': 'Marvel',
+        'metascore': 75,
+        'release': 2021
+    },
+    {
+        'name': 'Loki',
+        'company': 'Marvel',
+        'metascore': 74,
+        'release': 2021
+    },
+    {
+        'name': 'Black Widow',
+        'company': 'Marvel',
+        'metascore': 67,
+        'release': 2021
     }
 ]

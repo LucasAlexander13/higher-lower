@@ -2,11 +2,12 @@ from random import randint
 from ascii_art import logo, versus
 from time import sleep
 from dataset import data
+from os import system
 
 def clean():
     '''Cleans the terminal'''
     sleep(1)
-    return print("\033c", end='')
+    return system('cls')
 
 def get_movie():
     '''return a dictionary with the data of the movie'''

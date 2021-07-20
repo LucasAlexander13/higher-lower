@@ -2,6 +2,7 @@ from random import randint
 from ascii_art import logo, versus
 from time import sleep
 from dataset import data
+
 def clean():
     '''Cleans the terminal'''
     sleep(1)
